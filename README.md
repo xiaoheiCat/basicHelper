@@ -20,20 +20,7 @@ Download from [Release](https://github.com/xiaoheiCat/basicHelper/releases)
 
 ## Usage
 
-Before using this plugin template, make sure that you have installed XMake and a Minecraft Bedrock Server with LeviLamina.
-
-1. Clone the new repository into a local folder.
-  
-2. Change the plugin name and the expected LeviLamina version in `xmake.lua`.
-  
-3. Add your code.
-  
-4. Run `xmake repo -u` in the root of the repository.
-  
-5. Run `xmake` to build the plugin.
-  
-
-Now the build is complete at `bin/`.
+Wait until the server with LeviLamina started, then type command `/basichelper help` for help.
 
 ## Contributing
 
