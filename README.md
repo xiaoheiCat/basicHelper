@@ -1,35 +1,44 @@
-# LeviLamina Plugin Template
+# basicHelper
 
-A LeviLamina plugin template
+English | [简体中文](https://github.com/xiaoheiCat/basicHelper/blob/main/README.zh.md)
 
-This plugin is a template for developing LeviLamina plugins.
+basicHelper is a LeviLamina LLSE plugin to add some common commands from the defunct LLEssentials as a complement to the new class Essentials plugin TMEssential recommended by LiteLDev members.
 
-## Install
+This plugin is a LeviLamina plugins.
 
-Generate a new repository from this template.
+## Install
+
+### Use Lip
+
+```shell
+lip install github.com/xiaoheiCat/basicHelper
+```
+
+### Manual
+
+Download from [Release](https://github.com/xiaoheiCat/basicHelper/releases)
 
 ## Usage
 
 Before using this plugin template, make sure that you have installed XMake and a Minecraft Bedrock Server with LeviLamina.
 
 1. Clone the new repository into a local folder.
-
-1. Change the plugin name and the expected LeviLamina version in `xmake.lua`.
-
-1. Add your code.
-
-1. Run `xmake repo -u` in the root of the repository.
-
-1. Run `xmake` to build the plugin.
+  
+2. Change the plugin name and the expected LeviLamina version in `xmake.lua`.
+  
+3. Add your code.
+  
+4. Run `xmake repo -u` in the root of the repository.
+  
+5. Run `xmake` to build the plugin.
+  
 
 Now the build is complete at `bin/`.
 
 ## Contributing
 
-Ask questions by [creating an issue](https://github.com/LiteLDev/levilamina-plugin-template/issues/new/choose).
-
-PRs accepted.
+Ask questions by my Minecraft community "Xianying Club" QQ channel by searching `XianyingStu233`. Chinese required.
 
 ## License
 
-CC0-1.0 © LiteLDev
+GPL-3.0 license © xiaoheiCat
