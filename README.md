@@ -6,15 +6,15 @@ basicHelper is a LeviLamina LLSE plugin to add some common commands from the def
 
 This plugin is a LeviLamina plugins.
 
-## Install
+## Install
 
-Use Lip
+### Use Lip
 
 ```shell
 lip install github.com/xiaoheiCat/basicHelper
 ```
 
-Manual
+### Manual
 
 Download from [Release](https://github.com/xiaoheiCat/basicHelper/releases)
 
