@@ -20,7 +20,7 @@ Download from [Release](https://github.com/xiaoheiCat/basicHelper/releases)
 
 ## Usage
 
-Wait until the server with LeviLamina started, then type command `/basichelper help` for help.
+Wait until the server with LeviLamina started, then type command `/bhelper help` for help.
 
 ## Contributing
 
