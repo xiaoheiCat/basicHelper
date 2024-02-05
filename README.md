@@ -8,13 +8,13 @@ This plugin is a LeviLamina plugins.
 
 ## Install
 
-### Use Lip
+Use Lip
 
 ```shell
 lip install github.com/xiaoheiCat/basicHelper
 ```
 
-### Manual
+Manual
 
 Download from [Release](https://github.com/xiaoheiCat/basicHelper/releases)
 
