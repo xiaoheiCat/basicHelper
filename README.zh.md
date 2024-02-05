@@ -1,10 +1,10 @@
 # basicHelper
 
-English | [简体中文](https://github.com/xiaoheiCat/basicHelper/blob/main/README.zh.md)
+[English](https://github.com/xiaoheiCat/basicHelper/blob/main/README.md) | 简体中文
 
 basicHelper 是一个 LeviLamina LLSE 插件，用于添加已停用的 LLEssentials 中的一些常用命令，作为 LiteLDev 成员推荐的新类 Essentials 插件 TMEssential 的补充。
 
-该插件属于 LeviLamina 插件。
+该插件是为 LeviLamina 制作的。
 
 ### 安装
 
