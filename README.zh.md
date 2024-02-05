@@ -20,7 +20,7 @@ lip install github.com/xiaoheiCat/basicHelper
 
 ### 使用方法
 
-等待注入有 LeviLamina 的服务器启动，然后输入命令 `/basichelper help` 获取帮助。
+等待注入有 LeviLamina 的服务器启动，然后输入命令 `/bhelp` 获取帮助。
 
 ## 贡献
 
